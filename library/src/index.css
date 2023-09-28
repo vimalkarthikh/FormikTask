@@ -1,0 +1,169 @@
+.cpr{
+  color: white;
+  text-align: center;
+  justify-content: center;
+}
+body{
+  background-image: url('https://images.pexels.com/photos/2387793/pexels-photo-2387793.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  background-repeat:repeat-y  ;
+  background-size: cover;
+}
+.nav-btn{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+  align-items: center;
+
+}
+.nbs{
+  background-color:black;
+  
+  justify-content: space-around;
+}
+.nbb{
+  color: whitesmoke;
+  width: 6.1cm;
+  justify-content: center;
+  justify-content: space-around;
+  margin-left: .5cm;
+}
+.pbb{
+  justify-content: center;
+  padding: 5px;
+  margin-left: 0cm;
+  align-items: center;
+}
+
+.nbt{
+  height: 1cm;
+  text-align: center;
+  align-items: center;
+}
+
+.htxt{
+  margin-top: 0cm;
+  padding: .5cm;
+  color: whitesmoke;text-align: center;
+}
+.wtt{
+  text-align: center;
+}
+
+.lib{
+  color: whitesmoke;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.cs{
+  width: 13cm;
+}
+
+.flx{
+  padding: 1cm;
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+.det{
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  justify-content: space-around;
+}
+.nbts{
+  width: 10cm;
+}
+.bcd{
+  width: 10cm;
+}
+.bcardbg{
+  display: flex;
+  padding: 1cm;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.bkd{
+  padding: 5px;
+}
+.adbb{
+  margin-top: 1cm;
+  justify-content: center;
+  text-align: center;
+}
+.df{
+  width: 10cm;
+}
+.frmb{
+  margin-top: 1cm;
+  justify-content: center;
+  text-align: center;
+  color: aliceblue;
+}
+.ubtn{
+  justify-content: space-between;
+
+}
+.uform{
+  padding: 0;
+}
+
+
+
+/* Updatebook.css */
+
+.ubk {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+  margin-bottom: 1cm;
+}
+
+.ubk h1 {
+  font-size: 44px;
+  margin-bottom: 10px;
+}
+
+.uform {
+  margin-bottom: 15px;
+}
+
+label {
+  justify-content: center;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.ff {
+  width: 10cm;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+.btn {
+  padding: 10px 20px;
+  margin-right: 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 3px;
+  text-decoration: none;
+  color: #fff;
+}
+
+
+
+
+
+.p {
+  text-align: center;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.ua{
+  font-size: 2rem;
+}
